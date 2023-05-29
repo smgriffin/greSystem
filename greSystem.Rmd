@@ -1,0 +1,188 @@
+---
+title: "greSystem"
+author: "sg"
+date: "2023-05-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# GRE Systematic Approach
+
+This packet is designed to help you tackle each GRE question type using a systematic approach.
+
+
+## Structure & Content
+
+  
+Verbal Reasoning
+  
+  - Analyze & evaluable written material
+  - Synthesize info from writing
+  - Understand meanings of words, sentences & texts
+  - Understand relationships in writing
+    
+Quantitative Reasoning
+  
+  - Assess math skills & concepts
+      a. algebra
+      b. geometry
+      c. data analysis
+  - Understand, interpret & analyze quantitative information to solve problems
+  
+Analytical Writing 
+  
+  - Articulate & support complex ideas
+  - Examine claims & evidence
+  - Sustain focused discussion
+  - Control elements of written english
+  
+\newpage
+# Reading Comprehension
+
+- Save hard or unfamiliar questions for last
+- Read & analyze the passage before trying to answer questions
+
+    
+## The Approach
+
+1. What is the **main** idea?
+
+2. Is this advancing or reporting ideas?
+
+3. Are the ideas committed or are they speculative?
+
+4. Identify *transitions* from one idea to the next.
+
+5. Check for the following **relationships** between ideas:
+   - Contrasting vs. consistent
+   - One supports another
+   - One spells out another in greater detail
+   - An application of an idea in a particular circumstance
+   
+   
+6. Additional Mining:
+   - Are there any key words or words you do not understand?
+   - Identify major vs. minor points.
+   - Briefly summarize the passage.
+   - What conclusions can you draw?
+   - Is there any missing information that can be inferred?
+   - Can any parts of the text be related to another?
+   - What is the author's perspective? What assumptions does he make?
+   - Reach a conclusion about the text.
+   - Consider alternative expectations.
+        
+\newpage
+## Reading Multiple Choice: Select 1
+
+1. Read **all** answers before selecting.
+
+2. Are any of the choices *partially* true or correct answers?
+
+3. Pay attention to context.
+    - *Example:* If the question asks for a definition, does the answer choice correctly represent the word **in the passage**?
+  
+  
+## Reading Multiple Choice: Select 1 *or more*
+- All answers correct?  No problem!
+
+1. Evaluate **each** answer separately on its own merit.
+
+2. Does each answer accurately answer the question posed?
+  - *Do not be mislead by partial truths*
+  
+  
+## Reading Comprehension: Select-in-Passage
+1. Evaluate **each** relevant sentence before selecting.
+
+2. Mark down the sections under consideration.
+    - Do **not** evaluate outside sections
+  
+3. Eliminate if the description only *partially* applies.
+
+
+## Text Completion Questions
+- Do **not** assume the first blank should be filled first
+
+1. Read the entire passage.
+
+2. Compose a one sentence summary.
+
+3. Identify significant words & phrases.
+
+4. Identify any structure words
+    - **Addition:** also, and, besides, furthermore, in addition, likewise, moreover, similarly, too
+    - **Contrast:** although, but, despite, even though, however, in contrast, nevertheless, nonetheless, on the other hand, rather, regardless, still, though, yet
+    - **Cause and Effect:** accordingly, as a result, because, consequently, due to, hence, if...then, since, therefore, thus
+    - **Exemplification**: for example, for instance, in particular, specifically, such as
+    - **Generalization:** as a rule, generally, in general, ordinarily, usually
+    - **Time and Sequence:** after, afterward, before, currently, eventually, finally, first, in the meantime, initially, later, meanwhile, next, now, subsequently, then
+  
+5. Think up your own words for the blanks.
+
+6. Double check
+  
+\newpage
+## Sentence Equivalence Questions
+
+1. Read sentence to get an overall sense.
+
+2. Identify key words and phrases
+
+3. Think up your own words for the blanks.
+
+4. Double check
+
+\newpage
+# Quantitative Reasoning
+
+### Assumptions
+- All numbers used are real numbers
+- All figures are assumed to lie in a plane unless otherwise indicated
+- Geometric figures, are **not necessarily** drawn to scale.
+- Coordinate systems, such as xy-planes and number lines, **are** drawn to scale
+- Graphical data presentations **are** drawn to scale
+
+## General Problem-solving Steps
+
+1. Understand the problem
+    - Arithmetic, algebra, geometry, data analysis
+    - Identify quantitative information
+    - Identify formulas, definitions or conditions
+    - What do you need to accomplish in order to solve the problem?
+
+2. Carry out a strategy
+    - *repertoire...*
+  
+3. Check answer
+    - Have you answered the quetion that was asked?
+    - Is the answer reasonable in the context of the question?
+    - Are there any computational mistakes?
+  
+## Strategies
+1. Translate Words to an Arithmetic or Algebraic Representation
+2. Translate from Words to a Figure or Diagram
+3. Translate from an Algebraic to a Graphical Representation
+4. Translate from a Figure to an Arithmetic or Algebraic Representation
+5. Simplify an Arithmetic or Algebraic Representation
+6. Add to a Geometric Figure
+7. Find a Pattern
+8. Search for a Mathematical Relationship
+9. Estimate
+10. Trial & Error
+11. Divide into Cases
+12. Adapt Solutions to Related Problems
+13. Determine Whether a Conclusion Follows from the Information Given
+
+\newpage
+## Quantity Comparison Questions
+1. Become familiar with the answer choices
+    - *Do not "Relationship cannot be determined" if the values of the two quantities can be computed*
+2. Avoid unnecessary computations
+3. Geometric figures are **not** necessarily drawn to scale
+4. Plug in numbers
+    - *Consider all appropriate numbers: eg., zero, positive & negative*
+5. Simplify the comparison
+    - Quantity A [?] Quantity B
